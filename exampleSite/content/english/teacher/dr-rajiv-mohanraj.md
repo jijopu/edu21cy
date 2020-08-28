@@ -2,7 +2,7 @@
 bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Computer Science"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description = "Dr Rajiv Mohanraj is a Consultant Neurologist in Manchester UK and is an Honorary Senior Lecturer at the University of Manchester."
 draft = true
 image = "images/teachers/teacher-2.jpg"
 interest = ["Computer Networking", "Computer Security", "Human Computer Interfacing"]
@@ -39,9 +39,4 @@ name = "1313 Boulevard Cremazie,Quebec"
 +++
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Dr Rajiv Mohanraj completed his MBBS from TD Medical College Alappuzha, and PhD from the University of Glasgow, UK. He is a Fellow of the Royal College of Physicians and member of the Association of British Neurologists. He is involved with undergraduate and postgraduate medical education as well as research.

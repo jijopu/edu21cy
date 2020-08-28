@@ -3,7 +3,7 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Computer Science"
 description = "Dr Rajiv Mohanraj is a Consultant Neurologist in Manchester UK and is an Honorary Senior Lecturer at the University of Manchester."
-image = "images/teachers/teacher-2.jpg"
+image = "/images/rajiv.jpg"
 interest = ["Computer Networking", "Computer Security", "Human Computer Interfacing"]
 title = "Dr Rajiv Mohanraj"
 [[contact]]

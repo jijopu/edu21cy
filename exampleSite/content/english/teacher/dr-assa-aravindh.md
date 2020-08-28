@@ -3,7 +3,6 @@ bg_image = "images/backgrounds/page-title.jpg"
 bio = "Research Scientist at University of Oulu, Finland."
 course = "Physicist"
 description = "Research Scientist"
-draft = true
 image = "/images/assa.jpg"
 interest = ["Computer Networking", "Computer Security", "Human Computer Interfacing"]
 title = "Dr Assa Aravindh"

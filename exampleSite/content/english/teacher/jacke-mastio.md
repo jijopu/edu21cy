@@ -1,5 +1,5 @@
 ---
-title: Dr Assa Aravindh
+title: Dr Anju S S
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -35,7 +35,6 @@ contact:
 - name: 1313 Boulevard Cremazie,Quebec
   icon: ti-location-pin
   link: "#"
-type: teacher
 
 ---
 ### About Me

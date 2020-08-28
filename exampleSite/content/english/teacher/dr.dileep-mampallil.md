@@ -2,7 +2,7 @@
 bg_image = "images/backgrounds/page-title.jpg"
 bio = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio, culpa aspernatur. Error placeat iusto officia voluptas quae."
 course = "Computer Science"
-description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description = "Dileep Mampallil is an Assistant Professor in Indian Institute of Science Education and Research, Tirupati."
 draft = true
 image = "images/teachers/teacher-2.jpg"
 interest = ["Computer Networking", "Computer Security", "Human Computer Interfacing"]
@@ -39,9 +39,5 @@ name = "1313 Boulevard Cremazie,Quebec"
 +++
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+Dr Dileep Mampallil obtained his MSc from Indian Institute of Technology Madras in Physics and his PhD from the University of Twente in the Netherlands. He worked at the University of Glasgow as part of postdoctoral research. Currently, Dileep is working in an interdisciplinary field involving Physics and Biology. Apart from research, he is also a science communicator. He is the recipient of Joseph Mundassery Foundation prize for young science writer in 2019 for his book  
+Parinamam.

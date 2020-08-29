@@ -19,26 +19,66 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu.main]
+[[menu.footer]]
 URL = "teacher"
 name = "team"
-parent = "Pages"
-weight = 1
-[[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
+weight = 5
 [[menu.footer]]
 URL = "research"
 name = "research"
+weight = 1
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+weight = 2
+[[menu.footer]]
+URL = "event"
+name = "event"
+weight = 3
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+weight = 4
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Pages"
+weight = 2
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+weight = 3
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+weight = 4
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
+[[menu.main]]
+URL = "course"
+name = "content"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
 author = "Themefisher"

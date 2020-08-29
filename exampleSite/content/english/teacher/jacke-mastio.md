@@ -3,7 +3,7 @@ title: Dr Anjana S S
 bg_image: images/backgrounds/page-title.jpg
 description: Post-doctoral Fellow at IIT Mumbai
 image: "/images/anjana-1.jpg"
-course: Chemist
+course: Chemistry
 bio: Dr Anjana received her PhD in Chemistry from IIT Madras and is currently working
   as a post-doctoral researcher at IIT Bombay.
 interest:

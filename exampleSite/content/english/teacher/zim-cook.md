@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: "/images/jijo-wbg-2x.jpg"
-course: Physicist
+course: Physics
 bio: Head of the Deparment of Physics at Governent College Kasaragod
 interest:
 - Computational Physics

@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.footer]]
 URL = "teacher"
-name = "teacher"
+name = "team"
 weight = 5
 [[menu.footer]]
 URL = "research"

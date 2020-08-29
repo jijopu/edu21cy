@@ -1,10 +1,8 @@
 ---
 title: Physics
-date: 2019-07-06T15:27:17.000+06:00
+date: '2019-07-06T15:27:17.000+06:00'
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: Learning Physics from scratch
 image: images/courses/course-6.jpg
 category: Photography
 teacher: Duis Rio
@@ -14,47 +12,30 @@ fee: 'From: $699'
 apply_url: "#"
 
 ---
-### About Course
+### Learning Physics from scratch
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+S. Assa Aravindh
 
-### Requirements
+When it comes to Science learning, Physics is the most abstract subject which students often struggle to understand the basics. Especially in today’s mixed major course scenario, where both science and technology students need to understand basic Physics in real-world situations, as it explains the science underlying everything around them. However, the Physics enthusiast often encounters situations, in which a lot of study material is available and hard to choose the best option. Here is a list of three books that every serious student must go through to understand the foundations of modern Physics.
 
+1\. **Concepts of Modern Physics - Arthur Beiser**
 
+_A website where it is freely available for 30 days reading:_ [https://www.scribd.com/document/325364400/Concepts-of-Modern-Physics-Arthur-Beiser-3750](https://www.scribd.com/document/325364400/Concepts-of-Modern-Physics-Arthur-Beiser-3750 "https://www.scribd.com/document/325364400/Concepts-of-Modern-Physics-Arthur-Beiser-3750")
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+2\. **The Feynman Lectures on Physics**
 
+A compilation of some of the exemplary works of the Nobel laureate, Richard P Feynman. These lectures are first delivered to Caltech
 
-### How to Apply
+It is available free to download from Caltech online resources: [https://www.feynmanlectures.caltech.edu/](https://www.feynmanlectures.caltech.edu/ "https://www.feynmanlectures.caltech.edu/")
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+More reading about the book: [https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics](https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics "https://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics")
 
+3\. **Fundamentals of Physics: by David Halliday, Jearl Walker, and Robert Resnick**
 
-### Fees and Funding
+This text book covers most basic aspects of Physics such as Mechanics, Waves, Thermodynamics, Electromagnetism, Optics and Special relativity
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+_For more reading regarding this book:_ [_https://en.wikipedia.org/wiki/Fundamentals_of_Physics_](https://en.wikipedia.org/wiki/Fundamentals_of_Physics "https://en.wikipedia.org/wiki/Fundamentals_of_Physics")
+
+It can be downloaded from academia.edu with an account
+
+[https://www.academia.edu/34844669/Fundamentals_of_Physics_10th_edition_Halliday_and_Resnick_pdf](https://www.academia.edu/34844669/Fundamentals_of_Physics_10th_edition_Halliday_and_Resnick_pdf "https://www.academia.edu/34844669/Fundamentals_of_Physics_10th_edition_Halliday_and_Resnick_pdf")

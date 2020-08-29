@@ -69,7 +69,7 @@ name = "blog"
 weight = 4
 [[menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Team"
 weight = 3
 [[menu.main]]
 URL = "course"

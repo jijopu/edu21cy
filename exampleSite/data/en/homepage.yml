@@ -21,7 +21,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Join us today
       link: contact
   - title: Your bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -31,7 +31,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Join us today
       link: contact
 banner_feature:
   enable: true
@@ -74,10 +74,10 @@ course:
 cta:
   enable: true
   subtitle: Click to Join the Advance Workshop
-  title: Training In Advannce Networking
+  title: Training In Advance Networking
   button:
     enable: true
-    label: join now
+    label: Join us today
     link: contact
 success_story:
   enable: true
@@ -88,20 +88,18 @@ success_story:
 
     ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
-event:
+event: 
   enable: true
   title: Upcoming Events
 funfacts:
   enable: true
   funfact_item:
-  - name: TEACHERS
-    count: "60"
-  - name: COURSES
-    count: "50"
+  - name: TEAM
+    count: "11"
+  - name: COUNTENT
+    count: "10"
   - name: STUDENTS
     count: "1000"
-  - name: SATISFIED CLIENT
-    count: "1400"
 blog:
   enable: true
   title: Latest News

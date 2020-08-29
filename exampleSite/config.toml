@@ -73,7 +73,7 @@ name = "Pages"
 weight = 4
 [[menu.main]]
 URL = "course"
-name = "course"
+name = "content"
 weight = 2
 [[menu.main]]
 URL = "about"

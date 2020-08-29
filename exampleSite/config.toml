@@ -44,10 +44,6 @@ weight = 2
 URL = "scholarship"
 name = "scholarship"
 parent = "Pages"
-[[menu.footer]]
-URL = "team"
-name = "team"
-weight = 5
 weight = 3
 [[menu.main]]
 URL = "event"

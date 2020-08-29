@@ -1,7 +1,7 @@
 +++
 bg_image = "images/backgrounds/page-title.jpg"
 bio = "Research Scientist at University of Oulu, Finland."
-course = "Physicist"
+course = "Physics"
 description = "Research Scientist"
 image = "/images/assa.jpg"
 interest = ["Computer Networking", "Computer Security", "Human Computer Interfacing"]

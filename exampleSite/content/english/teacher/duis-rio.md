@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: "/images/rajeev.jpg"
-course: Physics, Laser Science
+course: Physics
 bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
   ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
   culpa aspernatur. Error placeat iusto officia voluptas quae.

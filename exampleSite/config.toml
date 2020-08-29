@@ -68,7 +68,7 @@ URL = "course"
 name = "content"
 weight = 3
 [[menu.main]]
-URL = "team"
+URL = "teacher"
 name = "team"
 weight = 2
 [[menu.main]]

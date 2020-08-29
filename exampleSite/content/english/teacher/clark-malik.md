@@ -4,7 +4,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/teachers/teacher-1.jpg
+image: "/images/mt2-1.jpg"
 course: Computer Science
 bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
   ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,

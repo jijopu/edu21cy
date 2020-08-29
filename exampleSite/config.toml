@@ -54,7 +54,7 @@ weight = 4
 URL = "notice"
 name = "notice"
 parent = "Pages"
-weight = 5
+weight = 6
 [[menu.main]]
 URL = "contact"
 name = "Contact"
@@ -64,12 +64,12 @@ URL = "blog"
 name = "blog"
 weight = 4
 [[menu.main]]
-hasChildren = true
-name = "Team"
-weight = 3
-[[menu.main]]
 URL = "course"
 name = "content"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "team"
 weight = 2
 [[menu.main]]
 URL = "about"
